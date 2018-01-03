@@ -1,7 +1,7 @@
 rm -rf hardware/qcom/media-caf/msm8937
 rm -rf hardware/qcom/audio-caf/msm8937
 rm -rf hardware/qcom/display-caf/msm8937
-rm -rf vendor/xiaomi/mido
+rm -rf vendor/xiaomi/
 rm -rf kernel/xiaomi/msm8953
 
 git clone https://github.com/Adesh15/hardware_qcom_media -b lineage-15.0-caf-8996 hardware/qcom/media-caf/msm8937
